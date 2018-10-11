@@ -1,4 +1,0 @@
-browser=firefox
-url=http://18.220.43.45/jpetstore/
-browser=firefox
-url=http://18.220.43.45/jpetstore/
