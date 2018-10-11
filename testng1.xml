@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="jpetStoreckg.ReturnToMainMenu"/>
+      <class name="jpetStoreckg.catalogueTest"/>
+      <!-- <class name="jpetStoreckg.loginTest"/> -->
+      <class name="jpetStoreckg.baseTestClass"/>
+      <class name="jpetStoreckg.homePageNavigation"/>
+      <class name="jpetStoreckg.HelpPage4"/>
+      <class name="jpetStoreckg.HelpPage3"/>
+      <class name="jpetStoreckg.HelpPage2"/>
+      <class name="jpetStoreckg.HelpPage"/>
+      <class name="jpetStoreckg.HelpPage1"/>
+      <class name="jpetStoreckg.HelpPage8"/>
+      <class name="jpetStoreckg.HelpPage7"/>
+      <class name="jpetStoreckg.HelpPage6"/>
+      <class name="jpetStoreckg.HelpPage5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

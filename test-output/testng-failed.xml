@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="jpetStoreckg.catalogueTest4">
+        <methods>
+          <include name="Tc11"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueTest4 -->
+      <class name="jpetStoreckg.catalogueTest">
+        <methods>
+          <include name="Tc8"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueTest -->
+      <class name="jpetStoreckg.ReturnToMainMenu">
+        <methods>
+          <include name="Tc27"/>
+        </methods>
+      </class> <!-- jpetStoreckg.ReturnToMainMenu -->
+      <class name="jpetStoreckg.HelpPage1">
+        <methods>
+          <include name="Tc18"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage1 -->
+      <class name="jpetStoreckg.catalogueDetailPage">
+        <methods>
+          <include name="Tc3"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueDetailPage -->
+      <class name="jpetStoreckg.HelpPage9">
+        <methods>
+          <include name="Tc25"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage9 -->
+      <class name="jpetStoreckg.ReturnHomePageFromDogsPage">
+        <methods>
+          <include name="Tc29"/>
+        </methods>
+      </class> <!-- jpetStoreckg.ReturnHomePageFromDogsPage -->
+      <class name="jpetStoreckg.baseTestClass">
+        <methods>
+          <include name="Tc1"/>
+        </methods>
+      </class> <!-- jpetStoreckg.baseTestClass -->
+      <class name="jpetStoreckg.homePageNavigation">
+        <methods>
+          <include name="Tc13"/>
+        </methods>
+      </class> <!-- jpetStoreckg.homePageNavigation -->
+      <class name="jpetStoreckg.HelpPage4">
+        <methods>
+          <include name="Tc21"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage4 -->
+      <class name="jpetStoreckg.catalogueTest5">
+        <methods>
+          <include name="Tc12"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueTest5 -->
+      <class name="jpetStoreckg.HelpPage7">
+        <methods>
+          <include name="Tc23"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage7 -->
+      <class name="jpetStoreckg.ReturnHomePageFromCatsPage">
+        <methods>
+          <include name="Tc30"/>
+        </methods>
+      </class> <!-- jpetStoreckg.ReturnHomePageFromCatsPage -->
+      <class name="jpetStoreckg.catalogueDetailPage5">
+        <methods>
+          <include name="Tc7"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueDetailPage5 -->
+      <class name="jpetStoreckg.catalogueTest2">
+        <methods>
+          <include name="Tc9"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueTest2 -->
+      <class name="jpetStoreckg.Register">
+        <methods>
+          <include name="Tc15"/>
+        </methods>
+      </class> <!-- jpetStoreckg.Register -->
+      <class name="jpetStoreckg.HelpPage6">
+        <methods>
+          <include name="Tc23"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage6 -->
+      <class name="jpetStoreckg.ReturnHomePageFromBirdsPage">
+        <methods>
+          <include name="Tc32"/>
+        </methods>
+      </class> <!-- jpetStoreckg.ReturnHomePageFromBirdsPage -->
+      <class name="jpetStoreckg.HelpPage">
+        <methods>
+          <include name="Tc17"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage -->
+      <class name="jpetStoreckg.HelpPage3">
+        <methods>
+          <include name="Tc20"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage3 -->
+      <class name="jpetStoreckg.catalogueTest3">
+        <methods>
+          <include name="Tc10"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueTest3 -->
+      <class name="jpetStoreckg.HelpPage10">
+        <methods>
+          <include name="Tc26"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage10 -->
+      <class name="jpetStoreckg.HelpPage2">
+        <methods>
+          <include name="Tc19"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage2 -->
+      <class name="jpetStoreckg.loginTest">
+        <methods>
+          <include name="Tc14"/>
+        </methods>
+      </class> <!-- jpetStoreckg.loginTest -->
+      <class name="jpetStoreckg.ReturnHomePageFromReptilesPage">
+        <methods>
+          <include name="Tc31"/>
+        </methods>
+      </class> <!-- jpetStoreckg.ReturnHomePageFromReptilesPage -->
+      <class name="jpetStoreckg.ReturnHomePageFromFishPage">
+        <methods>
+          <include name="Tc28"/>
+        </methods>
+      </class> <!-- jpetStoreckg.ReturnHomePageFromFishPage -->
+      <class name="jpetStoreckg.cartPage">
+        <methods>
+          <include name="Tc2"/>
+        </methods>
+      </class> <!-- jpetStoreckg.cartPage -->
+      <class name="jpetStoreckg.HelpPage5">
+        <methods>
+          <include name="Tc22"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage5 -->
+      <class name="jpetStoreckg.catalogueDetailPage4">
+        <methods>
+          <include name="Tc6"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueDetailPage4 -->
+      <class name="jpetStoreckg.signOut">
+        <methods>
+          <include name="Tc16"/>
+        </methods>
+      </class> <!-- jpetStoreckg.signOut -->
+      <class name="jpetStoreckg.catalogueDetailPage3">
+        <methods>
+          <include name="Tc5"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueDetailPage3 -->
+      <class name="jpetStoreckg.catalogueDetailPage2">
+        <methods>
+          <include name="Tc4"/>
+        </methods>
+      </class> <!-- jpetStoreckg.catalogueDetailPage2 -->
+      <class name="jpetStoreckg.HelpPage8">
+        <methods>
+          <include name="Tc24"/>
+        </methods>
+      </class> <!-- jpetStoreckg.HelpPage8 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
